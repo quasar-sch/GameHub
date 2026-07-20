@@ -25,111 +25,111 @@ export const CATEGORIES: Category[] = [
 export const GAMES: Game[] = [
   {
     id: '1',
-    title: "Knight's Tour",
-    description: "Master the chess board with strategic movements.",
-    category: 'strategy',
-    link: 'https://en.wikipedia.org/wiki/Knight%27s_tour',
+    title: "기사의 모험 Knight's Tour",
+    description: "체스판을 정복하라!",
+    category: 'puzzle',
+    link: 'https://quasar-sch.github.io/KnightsTour/',
     iconType: 'emoji',
     iconValue: '♞'
   },
   {
     id: '2',
-    title: "River Crossing",
-    description: "Classic logic puzzles to test your sequence thinking.",
+    title: "강 건너기 River Crossing",
+    description: "강 건너는 것을 도와주세요!",
     category: 'puzzle',
-    link: 'https://en.wikipedia.org/wiki/River_crossing_puzzle',
+    link: 'https://quasar-sch.github.io/CrossingRiver/',
     iconType: 'emoji',
-    iconValue: '🧩'
+    iconValue: '⛵'
   },
   {
     id: '3',
-    title: "Hanoi Tower",
-    description: "Recursive complexity in a beautiful neon stack.",
+    title: "하노이의 탑 Hanoi Tower",
+    description: "탑을 옮겨라!",
     category: 'puzzle',
-    link: 'https://en.wikipedia.org/wiki/Tower_of_Hanoi',
+    link: 'https://quasar-sch.github.io/HanoiTower/',
     iconType: 'emoji',
     iconValue: '🏗️'
   },
   {
     id: '4',
-    title: "One-line",
-    description: "Connect the dots without lifting your digital pen.",
-    category: 'logic',
-    link: 'https://en.wikipedia.org/wiki/1Line',
+    title: "한 붓 그리기 One-line",
+    description: "모든 선을 한 붓으로 지나기!",
+    category: 'puzzle',
+    link: 'https://quasar-sch.github.io/CrossingBridge/',
     iconType: 'emoji',
     iconValue: '🖌️'
   },
   {
     id: '5',
-    title: "Water Bucket",
-    description: "The ultimate volume measurement challenge.",
+    title: "물통 퍼즐 Water Bucket",
+    description: "알맞은 물의 양을 구하세요!",
     category: 'puzzle',
-    link: 'https://en.wikipedia.org/wiki/Water_pouring_puzzle',
+    link: 'https://quasar-sch.github.io/WaterBucket/',
     iconType: 'emoji',
     iconValue: '🫗'
   },
   {
     id: '6',
-    title: "Nine Men's",
-    description: "Ancient strategic warfare on a digital grid.",
+    title: "나인멘즈모리스 Nine Men's Morris",
+    description: "전략을 잘 짜서 상대방을 이기세요!",
     category: 'strategy',
-    link: 'https://en.wikipedia.org/wiki/Nine_men%27s_morris',
+    link: 'https://quasar-sch.github.io/NineMen-sMorris/',
+    iconType: 'emoji',
+    iconValue: 'Ⓜ️'
+  },
+  {
+    id: '7',
+    title: "님 게임 Nim Game",
+    description: "마지막으로 가져가지 말 것!",
+    category: 'strategy',
+    link: 'https://quasar-sch.github.io/Nimgame/',
+    iconType: 'emoji',
+    iconValue: '🔥'
+  },
+  {
+    id: '8',
+    title: "바그찰 Bagchal",
+    description: "염소와 호랑이 중 누가 더 세나",
+    category: 'strategy',
+    link: 'https://quasar-sch.github.io/Bagchal/',
+    iconType: 'emoji',
+    iconValue: '🐐'
+  },
+  {
+    id: '9',
+    title: "체커 Draughts",
+    description: "대각게임 원조",
+    category: 'strategy',
+    link: 'https://quasar-sch.github.io/Draughts/',
     iconType: 'emoji',
     iconValue: '⚪'
   },
   {
-    id: '7',
-    title: "Monty Hall",
-    description: "Test your probability against the neon doors.",
+    id: '10',
+    title: "소코반 Sokoban",
+    description: "박스를 잘 옮기기!",
+    category: 'puzzle',
+    link: 'https://quasar-sch.github.io/Sokoban/',
+    iconType: 'emoji',
+    iconValue: '💣'
+  },
+  {
+    id: '11',
+    title: "몬티홀 문제 Montihall Dilemma",
+    description: "선택을 바꿀것인가 말것인가",
     category: 'simulation',
-    link: 'https://en.wikipedia.org/wiki/Monty_Hall_problem',
+    link: 'https://quasar-sch.github.io/MontyHall/',
     iconType: 'emoji',
     iconValue: '🚪'
   },
   {
-    id: '8',
-    title: "Three Gunners",
-    description: "High-octane tactical combat simulation.",
+    id: '12',
+    title: "세 명의 총잡이 Three-way duel",
+    description: "최후의 생존자는?",
     category: 'simulation',
-    link: 'https://en.wikipedia.org/wiki/Simulation_game',
+    link: 'https://quasar-sch.github.io/ThreeGunners/',
     iconType: 'emoji',
     iconValue: '🔫'
-  },
-  {
-    id: '9',
-    title: "Nim Game",
-    description: "Mathematical strategy in a neon void.",
-    category: 'board_game',
-    link: 'https://en.wikipedia.org/wiki/Nim',
-    iconType: 'emoji',
-    iconValue: '🎮'
-  },
-  {
-    id: '10',
-    title: "Bagchal",
-    description: "Tigers vs Goats: An asymmetric neon hunt.",
-    category: 'strategy',
-    link: 'https://en.wikipedia.org/wiki/Bagh_Chall',
-    iconType: 'emoji',
-    iconValue: '🐯'
-  },
-  {
-    id: '11',
-    title: "Draughts",
-    description: "The classic checkering game, modernized for the grid.",
-    category: 'board_game',
-    link: 'https://en.wikipedia.org/wiki/Draughts',
-    iconType: 'emoji',
-    iconValue: '⚪'
-  },
-  {
-    id: '12',
-    title: "Sokoban",
-    description: "Heavy lifting puzzles in a cyber-warehouse.",
-    category: 'puzzle',
-    link: 'https://en.wikipedia.org/wiki/Sokoban',
-    iconType: 'emoji',
-    iconValue: '💣'
   }
 ];
 
