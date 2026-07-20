@@ -1,0 +1,6 @@
+{
+  "name": "Game Hub",
+  "description": "A stylish cyber-neon game library with custom category mapping and instant QR code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
