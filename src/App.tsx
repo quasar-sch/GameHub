@@ -36,7 +36,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Knight's Tour",
     description: "Master the chess board with strategic movements.",
     category: 'strategy',
-    link: 'https://quasar-sch.github.io/KnightsTour/',
+    link: 'https://en.wikipedia.org/wiki/Knight%27s_tour',
     iconType: 'emoji',
     iconValue: '♞'
   },
@@ -45,7 +45,7 @@ const INITIAL_GAMES: Game[] = [
     title: "River Crossing",
     description: "Classic logic puzzles to test your sequence thinking.",
     category: 'puzzle',
-    link: 'https://quasar-sch.github.io/CrossingRiver/',
+    link: 'https://en.wikipedia.org/wiki/River_crossing_puzzle',
     iconType: 'emoji',
     iconValue: '🧩'
   },
@@ -54,7 +54,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Hanoi Tower",
     description: "Recursive complexity in a beautiful neon stack.",
     category: 'puzzle',
-    link: 'https://quasar-sch.github.io/HanoiTower/',
+    link: 'https://en.wikipedia.org/wiki/Tower_of_Hanoi',
     iconType: 'emoji',
     iconValue: '🏗️'
   },
@@ -63,7 +63,7 @@ const INITIAL_GAMES: Game[] = [
     title: "One-line",
     description: "Connect the dots without lifting your digital pen.",
     category: 'logic',
-    link: 'https://quasar-sch.github.io/CrossingBridge/',
+    link: 'https://en.wikipedia.org/wiki/1Line',
     iconType: 'emoji',
     iconValue: '🖌'
   },
@@ -72,7 +72,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Water Bucket",
     description: "The ultimate volume measurement challenge.",
     category: 'puzzle',
-    link: 'https://quasar-sch.github.io/WaterBucket/',
+    link: 'https://en.wikipedia.org/wiki/Water_pouring_puzzle',
     iconType: 'emoji',
     iconValue: '🫗'
   },
@@ -81,7 +81,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Nine Men's",
     description: "Ancient strategic warfare on a digital grid.",
     category: 'strategy',
-    link: 'https://quasar-sch.github.io/NineMen-sMorris/',
+    link: 'https://en.wikipedia.org/wiki/Nine_men%27s_morris',
     iconType: 'emoji',
     iconValue: '⚪'
   },
@@ -90,7 +90,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Monty Hall",
     description: "Test your probability against the neon doors.",
     category: 'simulation',
-    link: 'https://quasar-sch.github.io/MontyHall/',
+    link: 'https://en.wikipedia.org/wiki/Monty_Hall_problem',
     iconType: 'emoji',
     iconValue: '🚪'
   },
@@ -99,7 +99,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Three Gunners",
     description: "High-octane tactical combat simulation.",
     category: 'simulation',
-    link: 'https://quasar-sch.github.io/ThreeGunners/',
+    link: 'https://en.wikipedia.org/wiki/Simulation_game',
     iconType: 'emoji',
     iconValue: '🔫'
   },
@@ -108,7 +108,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Nim Game",
     description: "Mathematical strategy in a neon void.",
     category: 'board_game',
-    link: 'https://quasar-sch.github.io/Nimgame/',
+    link: 'https://en.wikipedia.org/wiki/Nim',
     iconType: 'emoji',
     iconValue: '🎮'
   },
@@ -117,7 +117,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Bagchal",
     description: "Tigers vs Goats: An asymmetric neon hunt.",
     category: 'strategy',
-    link: 'https://quasar-sch.github.io/Bagchal/',
+    link: 'https://en.wikipedia.org/wiki/Bagh_Chall',
     iconType: 'emoji',
     iconValue: '🐯'
   },
@@ -126,7 +126,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Draughts",
     description: "The classic checkering game, modernized for the grid.",
     category: 'board_game',
-    link: 'https://quasar-sch.github.io/Draughts/',
+    link: 'https://en.wikipedia.org/wiki/Draughts',
     iconType: 'emoji',
     iconValue: '⚪'
   },
@@ -135,7 +135,7 @@ const INITIAL_GAMES: Game[] = [
     title: "Sokoban",
     description: "Heavy lifting puzzles in a cyber-warehouse.",
     category: 'puzzle',
-    link: 'https://quasar-sch.github.io/Sokoban/',
+    link: 'https://en.wikipedia.org/wiki/Sokoban',
     iconType: 'emoji',
     iconValue: '💣'
   }
