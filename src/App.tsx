@@ -130,6 +130,33 @@ export const GAMES: Game[] = [
     link: 'https://quasar-sch.github.io/ThreeGunners/',
     iconType: 'emoji',
     iconValue: '🔫'
+  },
+  {
+    id: '13',
+    title: "러시아워 Rush Hour",
+    description: "교통체증을 뚫어라!",
+    category: 'puzzle',
+    link: 'https://quasar-sch.github.io/RushHour/',
+    iconType: 'emoji',
+    iconValue: '🚘'
+  },
+  {
+    id: '14',
+    title: "컬러턴 Color Turn",
+    description: "지뢰를 피해라!",
+    category: 'strategy',
+    link: 'https://quasar-sch.github.io/ColorTurn/',
+    iconType: 'emoji',
+    iconValue: '⚪'
+  },
+  {
+    id: '15',
+    title: "페르미 추정 Permi Estimation",
+    description: "!",
+    category: 'stimulation',
+    link: 'https://quasar-sch.github.io/PermiEstimation/',
+    iconType: 'emoji',
+    iconValue: '❓'
   }
 ];
 
