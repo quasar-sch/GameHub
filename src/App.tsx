@@ -157,6 +157,33 @@ export const GAMES: Game[] = [
     link: 'https://quasar-sch.github.io/PermiEstimation/',
     iconType: 'emoji',
     iconValue: '❓'
+  },
+  {
+    id: '16',
+    title: "블라인드 오목 Blind Gomoku",
+    description: "내 말을 기억해라",
+    category: 'strategy',
+    link: 'https://quasar-sch.github.io/BlindGomoku/',
+    iconType: 'emoji',
+    iconValue: '🔴'
+  },
+  {
+    id: '17',
+    title: "메모리30 Memory30",
+    description: "어디까지 기억할 수 있을까?",
+    category: 'strategy',
+    link: 'https://quasar-sch.github.io/Memory30/',
+    iconType: 'emoji',
+    iconValue: '🤔'
+  },
+  {
+    id: '18',
+    title: "12장기 12Janggi",
+    description: "왕을 잡아라",
+    category: 'strategy',
+    link: 'https://quasar-sch.github.io/12Janggi/',
+    iconType: 'emoji',
+    iconValue: '👑'
   }
 ];
 
