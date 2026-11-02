@@ -154,7 +154,7 @@ export const GAMES: Game[] = [
     title: "페르미 추정 Permi Estimation",
     description: "최적의 수를 찾아라",
     category: 'logic',
-    link: 'https://quasar-sch.github.io/PermiEstimation/',
+    link: 'https://quasar-sch.github.io/FermiEstimation/',
     iconType: 'emoji',
     iconValue: '❓'
   },
